@@ -8,7 +8,7 @@
  <br>
  <h4>Alamat</h4>
  <ul type="none">
- <li> Jalan Cagar Alam no.25</li>
+ <li> Jalan Cagar Alam Raya no.25 </li>
  </ul>
  
  <h4>Tempat Lahir</h4>
