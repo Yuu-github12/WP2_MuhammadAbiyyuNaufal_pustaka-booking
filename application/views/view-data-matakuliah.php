@@ -3,7 +3,6 @@
 <title>Tampil Data Matakuliah</title>
 </head>
 <body>
-<?php echo validation_errors(); ?>
  <center>
  <table>
  <tr>
